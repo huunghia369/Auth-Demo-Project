@@ -23,3 +23,6 @@ npm run build
 ```shell
 npm run start
 ```
+
+## 🌍 Live Demo  
+[![Deploy](https://img.shields.io/static/v1?label=LIVE&message=Click%20Here&color=brightgreen&style=for-the-badge)](https://auth-demo-project.onrender.com)
